@@ -1,2 +1,2 @@
 # seeing-the-past
-A computer vision approach to University-led Gentrification
+A computer vision approach to understanding University-led Gentrification
